@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# solution
+yelp_regression_solution.ipynb
+
+# data
+yelp_business.json
+yelp_checkin.json
+yelp_data.json
+yelp_photo.json
+yelp_regression.ipynb
+yelp_review.json
+yelp_tip.json
+yelp_user.json
+
+# files
+.ipynb_checkpoints
+
